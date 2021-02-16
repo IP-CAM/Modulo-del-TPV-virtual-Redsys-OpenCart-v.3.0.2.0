@@ -1,8 +1,12 @@
 # redsys-opencart
-Módulo del TPV virtual Redsys para OpenCart 3.0.2.0
+Redsys virtual POS module for OpenCart 3.0.2.0
 
-Basándonos en el módulo ya existente para OpenCart disponible en [la web de Redsys](http://www.redsys.es/comercio-electronico/modulos/redsys_opencart.zip) hemos realizado este para OpenCart 3 (probado hasta la versión 3.0.2.0), que tiene sustanciales cambios con respecto a los anteriores:
+Based on the existing module for OpenCart available on 
+[Redsys website] (http://www.redsys.es/comercio-electronico/modulos/redsys_opencart.zip) 
+we have made this one for OpenCart 3 (tested up to version 3.0. 2.0), 
+which has substantial changes compared to the previous ones:
 
-* Cambio de las templates al motor de plantillas Twig
-* Nueva ubicación de los Payments (dentro de Extensions tanto en el admin como en la tienda)
-* Traducción completa al español de España (es-es) e inglés de Gran Bretaña (en-gb) con codificación UTF-8 (sin BOM)
+* Change templates to Twig template engine
+* New location of Payments (within Extensions both in the admin and in the store)
+* Complete translation into Spanish from Spain (es-es) and English from Great Britain
+(en-gb) with UTF-8 encoding (without BOM) 
